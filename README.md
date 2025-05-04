@@ -11,8 +11,6 @@ A collaborative wishlist application that allows users to create, share, and man
 - [Usage](#usage)
 - [Database Structure](#database-structure)
 - [Assumptions & Limitations](#assumptions--limitations)
-- [Future Improvements](#future-improvements)
-- [Screenshots](#screenshots)
 
 ## ✨ Features
 
