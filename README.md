@@ -2,7 +2,6 @@
 
 A collaborative wishlist application that allows users to create, share, and manage wishlists with friends and family.
 
-![Wishlist Buddy Banner](./screenshots/banner.png)
 
 ## 📋 Table of Contents
 
